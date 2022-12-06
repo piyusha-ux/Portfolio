@@ -8,7 +8,7 @@ const AboutMe = () => {
     return (
         <div>
             <Head>
-                <title>Mansi Gundre | Aboutme</title>
+                <title>Piyusha Khandare | Aboutme</title>
             </Head>
             <div className="py-12 m-8">
                 <div className="flex justify-center items-center">
